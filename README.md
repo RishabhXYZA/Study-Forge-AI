@@ -157,7 +157,7 @@ https://v0-study-forge-ai-app.vercel.app/
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo Video](""https://drive.google.com/drive/u/0/home"")
+👉 [Watch Demo Video](""[https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1__H4PqiBmj9IbxYJjvoNIMbLTUQcEJt3/view?usp=sharing)"")
 
 
 ## LICENSE
