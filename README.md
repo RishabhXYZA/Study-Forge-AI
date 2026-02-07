@@ -157,7 +157,7 @@ https://v0-study-forge-ai-app.vercel.app/
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo Video](""C:\Users\Victus\Videos\Captures\StudyForge AI - Smart Study Planner for Engineering Students - Google Chrome 2026-02-07 17-50-01.mp4"")
+👉 [Watch Demo Video](""https://drive.google.com/drive/u/0/home"")
 
 
 ## LICENSE
