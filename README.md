@@ -155,7 +155,6 @@ The easiest way to deploy StudyForge AI is through [Vercel](https://vercel.com):
 ## TRY it LIVE
 https://v0-study-forge-ai-app.vercel.app/
 
-## 🎥 Demo Video
 
 ## 🎥 Demo Video
 
