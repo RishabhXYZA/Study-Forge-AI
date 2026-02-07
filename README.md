@@ -155,5 +155,10 @@ The easiest way to deploy StudyForge AI is through [Vercel](https://vercel.com):
 ## TRY it LIVE
 https://v0-study-forge-ai-app.vercel.app/
 
+## 🎥 Demo Video
+
+👉 [Watch Demo Video]("StudyForge AI - Smart Study Planner for Engineering Students - Google Chrome 2026-02-07 17-50-01.mp4")
+
+
 ## LICENSE
 This project is licensed under the MIT License.
