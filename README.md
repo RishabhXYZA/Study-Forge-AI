@@ -152,6 +152,5 @@ The easiest way to deploy StudyForge AI is through [Vercel](https://vercel.com):
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+## TRY it LIVE
+https://v0-study-forge-ai-app.vercel.app/
